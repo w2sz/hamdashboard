@@ -70,12 +70,12 @@ const aIMG = [
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
   ],
   [
-    "SATELLITE CAN",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/can/EXTENT3/GOES16-CAN-EXTENT3-1125x560.gif",
+    "SATELLITE CONUS",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/GEOCOLOR/20242051436-20242051851-GOES16-ABI-CONUS-GEOCOLOR-625x375.gif",
   ],
   [
-    "SATELLITE CGL",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/cgl/EXTENT3/GOES16-CGL-EXTENT3-600x600.gif",
+    "SATELLITE NE",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/ne/GEOCOLOR/GOES16-NE-GEOCOLOR-600x600.gif",
   ],
   [
     "LIGHTNING",
