@@ -71,7 +71,7 @@ const aIMG = [
   ],
   [
     "SATELLITE CONUS",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/GEOCOLOR/20242051436-20242051851-GOES16-ABI-CONUS-GEOCOLOR-625x375.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/GEOCOLOR/GOES16-CONUS-GEOCOLOR-625x375.gif",
   ],
   [
     "SATELLITE NE",
